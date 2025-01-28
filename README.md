@@ -1,6 +1,9 @@
 # Transit Simulation
 
-This project implements a transit simulation using a layered linked list to model various modes of transportation such as trains, buses, and walking paths. The simulation supports dynamic modifications to the transit system, including adding stops, removing stations, and finding optimal paths. Designed for exploring data structures and linked list concepts in Java.
+The Transit Simulation project is a Java implementation that models a transportation system using layered linked lists to represent train stations, bus stops, and walking paths. Each layer is interconnected to simulate real-world transit, ensuring smooth transitions between modes of transportation. The project includes features for dynamically modifying the system, such as adding or removing train stations and bus stops, and introduces new layers like scooters when needed. It also supports finding the optimal path to a destination, recording all visited nodes for a comprehensive traversal overview. Additionally, the program can create a deep copy of the entire system, preserving all connections and data integrity.
+
+This simulation is an excellent tool for understanding advanced linked list operations, pathfinding algorithms, and data structure management in Java. It provides a practical demonstration of how layered structures can be used to model complex systems and is ideal for students and developers exploring computer science concepts.
+
 
 ## Table of Contents
 
