@@ -69,7 +69,7 @@ This simulation is an excellent tool for understanding advanced linked list oper
 
 ## File Outputs
 
-- No explicit file outputs. Results are printed to the console, and the layered list structure is maintained in memory.
+- Results are printed to the console, and the layered list structure is maintained in memory.
 
 ## License
 
