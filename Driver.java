@@ -3,7 +3,7 @@ import java.util.ArrayList;
 /**
  * This class is designed to test each method in the Transit file interactively
  * 
- * @author Ishaan Ivaturi
+ * @author Kobe Martinez
  */
 public class Driver {
     public static void main(String[] args) {
