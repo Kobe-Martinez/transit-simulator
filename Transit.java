@@ -4,9 +4,7 @@ import java.util.ArrayList;
  * This class contains methods which perform various operations on a layered linked
  * list to simulate transit
  * 
- * @author Ishaan Ivaturi
- * @author Prince Rawal
- * @author Kobe Martinez
+  * @author Kobe Martinez
  */
 public class Transit {
 	/**
