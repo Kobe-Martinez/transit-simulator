@@ -4,8 +4,7 @@
  * movement, and a down pointer representing a slower mode of 
  * transport
  * 
- * @author Ishaan Ivaturi
- * @author Prince Rawal
+ * @author Kobe Martinez
  */
 public class TNode {
 	int location;
